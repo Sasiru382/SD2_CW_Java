@@ -1,0 +1,4 @@
+Queue 1 : []
+Queue 2 : []
+Queue 3 : []
+Remaining fuel Stock : 6600
